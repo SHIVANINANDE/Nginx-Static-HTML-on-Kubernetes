@@ -1,5 +1,3 @@
-| [◂ Previous](https://github.com/ameyrupji-k8s/docker-nginx-static-html-demo) |
-|-----|
 
 # k8s-docker-nginx-static-html-demo
 
@@ -62,9 +60,3 @@ To delete the docker image that was created
 
 ![docker-nginx-static-html-demo-cleanup-image](images/docker-nginx-static-html-demo-cleanup-image.png?raw=true "Terminal Docker Cleanup Screenshot")
 
-## Useful links
-
-- https://kubernetes.io/docs/concepts/
-
-| [Next ▸](https://github.com/ameyrupji-k8s/) |
-|-----|
